@@ -64,10 +64,6 @@ I started coding because I was curious about how websites work — now I can't s
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niteshgurjarr&label=Profile+Views&color=36BCF7&style=flat" alt="profile views"/>
-</p>
-
 
 
 
