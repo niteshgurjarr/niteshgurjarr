@@ -55,8 +55,7 @@ I started coding because I was curious about how websites work — now I can't s
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshgurjarr&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshgurjarr&theme=ambient_gradient&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshgurjarr&theme=ambient_gradient&hide_border=false&layout=compact" />
