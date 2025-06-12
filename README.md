@@ -48,13 +48,6 @@ I started coding because I was curious about how websites work — now I can't s
 
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-
-<p align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshgurjarr&theme=ambient_gradient&hide_border=false" />
   <br/>
