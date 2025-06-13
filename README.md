@@ -16,7 +16,7 @@
 - Frontend practice projects  
 
 🤝 I’m looking for help with  
-- JavaScript logic and project structure  
+- JavaScript logic  
 - Tips for improving my frontend skills  
 
 🌱 I’m currently learning  
