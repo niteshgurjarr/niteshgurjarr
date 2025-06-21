@@ -11,7 +11,7 @@
 - JavaScript-based mini projects  
 - Learning Node.js and backend fundamentals 
 
-👯 I’m looking to collaborate on  
+🧑‍💻 I’m looking to collaborate on  
 - Beginner-friendly open source projects  
 - Frontend practice projects  
 
